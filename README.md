@@ -44,3 +44,14 @@ The command also accepts the optional parameters `year=` and `month=`. For examp
     ...
     +---------------------------------------------------------------+
 
+License
+-------
+Please see MIT-LICENSE for more details
+
+Copyright
+---------
+Copyright (c) 2010 Terence Lee.
+
+Contributors
+------------
+Thanks to Daniel Lamando
